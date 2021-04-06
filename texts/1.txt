@@ -2,3 +2,5 @@
 new text here
 
 some important text
+
+text from second_branch
